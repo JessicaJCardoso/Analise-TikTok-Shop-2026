@@ -44,7 +44,7 @@ Reúne os principais aprendizados, oportunidades e desafios identificados.
 
 Os indicadores podem utilizar diferentes bases de respondentes, conforme as perguntas da pesquisa.
 
-## Ferramentas utilizadas
+## Ferramentas Utilizadas
 
 - Power BI Desktop — criação do dashboard.
 - Microsoft Excel — organização da base de dados.
